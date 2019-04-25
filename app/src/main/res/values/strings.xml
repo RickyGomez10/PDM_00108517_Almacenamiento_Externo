@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AlmacenamientoExterno</string>
+    <string name="et_placeholder">Ingrese nombre del archivo aqui</string>
+</resources>
